@@ -1,2 +1,2 @@
-# c24
-angry birds
+# p5.play-boilerplate
+Boiler plate for p5.play
